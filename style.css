@@ -39,10 +39,12 @@ h2 {
     /* color: #10BBEF; */
 }
 
-# #faq {
-    background-color: yellow;
+.grey {
+    /* background-color: yellow; */
+    color: #AA9342;
 }
 
-#stream #discuss {
-    background-color: #10BBEF;
+.blue {
+    background-color: #1B2839;
+    color: #10BBEF;
 }
