@@ -36,7 +36,11 @@ html, body {
 h2 {
     line-height: 1.5em;
     text-align: justify;
-    /* color: #10BBEF; */
+}
+
+a:hover {
+    color: #E6007E !important;
+    text-decoration: none;
 }
 
 .grey {
