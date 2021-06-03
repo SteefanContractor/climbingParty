@@ -1,0 +1,48 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-style: italic;
+    font-size: large;
+}
+
+@media (max-width:850px) {
+	h2 {font-size: 4.15vw}
+}
+
+@media (max-width:500px) {
+	h2 {font-size: 5vw}
+    .navbar-brand {font-size: 3.75vw}
+}
+
+/* Centre website */
+.content-centre {
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+.body-centre {
+	padding: 20 0 20 0;
+}
+
+.bg-custom {
+    background-image: linear-gradient(90deg, #E6007E 0%, #10BBEF 100%);
+}
+
+.divs {
+    min-height: 100%; 
+    font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+    line-height: 1.5em;
+    text-align: justify;
+    /* color: #10BBEF; */
+}
+
+# #faq {
+    background-color: yellow;
+}
+
+#stream #discuss {
+    background-color: #10BBEF;
+}
