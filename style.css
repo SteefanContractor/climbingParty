@@ -60,3 +60,10 @@ a:hover {
     background-color: #1B2839;
     color: #10BBEF;
 }
+
+#footer {
+    text-align: center; 
+    font-family: 'Oswald', sans-serif;
+    color:#1B2839;
+    padding: 40px;
+}
